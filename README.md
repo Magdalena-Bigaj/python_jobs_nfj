@@ -1,7 +1,7 @@
 # WEB SCRAPING 
 
-The most common technologies required with Python. 
-If you want to know which path you shoud choose :)
+The aim is to find the most common technologies required with Python. 
+I chose https://nofluffjobs.com/ and gathered the data to know which technologies are hot :)
 
 
 Python 3.9.1
