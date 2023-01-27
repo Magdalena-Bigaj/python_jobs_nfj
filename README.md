@@ -1,7 +1,8 @@
 ## WEB SCRAPING 
 
-### The aim is to find the most common technologies required with **Python**.<br> 
-### I chose https://nofluffjobs.com/ <br>and gathered the data to know which technologies are hot :)
+### The goal is to find out what **technologies** are **most often requested** <br>in those jobs listing where **Python** is required. <br>One table contains mandatory technologies, the other: nice to have sorted in descending order.<br> 
+
+### I chose the site https://nofluffjobs.com/<br> to find out which technologies are most in demand
 
 
 #### > Python 3.9.1
